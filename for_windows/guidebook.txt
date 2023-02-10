@@ -1,0 +1,1 @@
+To encode the Linux-recorded video for Windows, simply run the encoding_all.sh script and place the video in the same directory. The resulting Windows-compatible video will be saved in this directory (=${github repo}/for_windwos).
