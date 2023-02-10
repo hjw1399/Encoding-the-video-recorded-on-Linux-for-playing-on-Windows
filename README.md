@@ -1,6 +1,6 @@
 # Encoding-the-video-recorded-on-Linux-for-playing-on-Windows
 
-## Preliminiary
+## Preparing the installation in advance
 ```$ sudo apt-get install ffmpeg```
 
 
