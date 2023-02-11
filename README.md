@@ -1,4 +1,7 @@
-# Encoding-the-video-recorded-on-Linux-for-playing-on-Windows
+# Encoding-the-all-video-recorded-on-Linux-for-playing-on-Windows
+
+##Outline
+This shell script can encode the 'all' video recorded on Linux using a recording program such as Kazam to play on Windows. This is a convenient code.
 
 ## Advance preparation for the use of this repository
 ```$ sudo apt-get install ffmpeg```
